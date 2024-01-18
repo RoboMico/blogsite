@@ -49,7 +49,7 @@ _pink-sweater.png_
 
 - You need [GIMP](https://www.gimp.org/) to open XCF files.
 - It is recommended to open SVG files via [Inkscape](https://inkscape.org/).
-- Become my supporter on [Afdian](<(https://afdian.net/a/RoboMico)>) to unlock downloads of lossless WAV format tracks!
+- Become my supporter on [Afdian](https://afdian.net/a/RoboMico) to unlock downloads of lossless WAV format tracks!
 
 ### Logo
 
