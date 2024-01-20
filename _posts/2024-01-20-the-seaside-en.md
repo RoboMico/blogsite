@@ -1,6 +1,6 @@
 ---
 title: The Seaside
-date: 2024-01-19 00:00:00 +0800
+date: 2024-01-20 12:04:37 +0800
 categories: [Novels]
 tags: [en, sci-fi, short-story]
 ---
