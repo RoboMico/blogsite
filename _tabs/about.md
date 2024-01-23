@@ -39,6 +39,13 @@ order: 4
 - Natively speaking Chinese, English is ok for simple conversations
 - Competitive Programming (CP) player, Provincial First Prize winner in NOIP 2023 ~~(i dream of medals)~~
 
+## Fanarts
+
+~~i can't believe it i would literally be drawn by others 不是吧我真的会收到这种东西~~
+
+![micomicomiiii.png](http://storage.live.com/items/5FA5DFAE47A544F!121338:/ultrio.png?authkey=%21AC_KgUZjY4lFAV8)
+_By [Ultrio](https://twitter.com/UGuy325)_
+
 ## 联系方式 / Contacts
 
 可以在左侧边栏下方找到各网站帐号和电子邮箱。暂不接受商业合作/接稿/平台入驻邀请。
