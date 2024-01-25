@@ -5,13 +5,10 @@ order: 5
 ---
 
 <!-- prettier-ignore-start -->
-
 > 若无特殊说明，本页所有可供下载的文件均以 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans) 协议授权。
-{: .prompt-info }
-
+> 
 > Except where otherwise noted, all files downloaded in this page are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 {: .prompt-info }
-
 <!-- prettier-ignore-end -->
 
 ## Logo
@@ -70,13 +67,10 @@ memset(0x3f) - Ohm's Law <br> ![ohms-law.png](https://storage.live.com/items/5FA
 ### Remixes
 
 <!-- prettier-ignore-start -->
-
 > **注意**：部分曲目的 Remix 并未征得原作者同意。
-{: .prompt-warning }
-
+> 
 > **Note**: Some remixes are not officially permitted by the original author.
 {: .prompt-warning }
-
 <!-- prettier-ignore-end -->
 
 Darude - Sandstorm (0x3f Bootleg) <br> ![sandstorm-remix.png](https://storage.live.com/items/5FA5DFAE47A544F!121324:/sandstorm-remix.png?authkey=%21AC_KgUZjY4lFAV8){: w="120" h="120"} | [MP3](<https://storage.live.com/items/5FA5DFAE47A544F!121325:/Sandstorm(0x3f%20Bootleg).mp3?authkey=%21AC_KgUZjY4lFAV8>) | [PNG](https://storage.live.com/items/5FA5DFAE47A544F!121324:/sandstorm-remix.png?authkey=%21AC_KgUZjY4lFAV8) | [XCF](https://storage.live.com/items/5FA5DFAE47A544F!121323:/sandstorm-remix.xcf?authkey=%21AC_KgUZjY4lFAV8)
@@ -84,13 +78,10 @@ Darude - Sandstorm (0x3f Bootleg) <br> ![sandstorm-remix.png](https://storage.li
 ### 同人作品 / Fanmade Songs
 
 <!-- prettier-ignore-start -->
-
 > 这些曲目的曲绘版权归原画师所有，使用前请先征得他们的同意。
+> 
+> The artworks for these tracks are copyrighted to the original artists. Please ask their permission before using the artwork.
 {: .prompt-info }
-
-> The artwork for these tracks is copyrighted to the original artists. Please ask their permission before using the artwork.
-{: .prompt-info }
-
 <!-- prettier-ignore-end -->
 
 memset(0x3f) - First Awakening (for ArtifiSouls) <br> Artwork by [Soap](https://twitter.com/artifisoap) <br> ![first-awakening.png](https://storage.live.com/items/5FA5DFAE47A544F!121327:/first-awakening.png?authkey=%21AC_KgUZjY4lFAV8){: w="120" h="120"} | [MP3](<https://storage.live.com/items/5FA5DFAE47A544F!121328:/memset(0x3f)%20-%20First%20Awakening.mp3?authkey=%21AC_KgUZjY4lFAV8>) | [PNG](https://storage.live.com/items/5FA5DFAE47A544F!121327:/first-awakening.png?authkey=%21AC_KgUZjY4lFAV8) | [SVG](https://storage.live.com/items/5FA5DFAE47A544F!121326:/first-awakening.svg?authkey=%21AC_KgUZjY4lFAV8)

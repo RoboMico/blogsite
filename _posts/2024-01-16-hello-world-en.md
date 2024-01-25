@@ -3,6 +3,8 @@ title: Hello World from My New Blog!
 date: 2024-01-16 00:24:12 +0800
 categories: [Announcements]
 tags: [en]
+lang-zh: hello-world-zh
+abstract: So here is my new blog.
 ---
 
 So here is my new blog. Things that I will post here includes:

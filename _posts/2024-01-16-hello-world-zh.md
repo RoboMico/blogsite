@@ -3,6 +3,8 @@ title: 新博客上线啦！
 date: 2024-01-16 00:24:12 +0800
 categories: [通知]
 tags: [中文]
+lang-en: hello-world-en
+abstract: 欢迎来到我的新博客网站。
 ---
 
 欢迎来到我的新博客网站。这里会发布的内容包括：

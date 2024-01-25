@@ -3,6 +3,8 @@ title: The Seaside
 date: 2024-01-20 12:04:37 +0800
 categories: [Novels]
 tags: [en, sci-fi, short-story]
+lang-zh: the-seaside-zh
+abstract: The sea is no longer the symbol of beauty, purity and freedom, but the end of the world and the forbidden zone of terrestrial life.
 ---
 
 > Originally written on 2023/9/3, Slightly modified & Translated on 2024/1/19
