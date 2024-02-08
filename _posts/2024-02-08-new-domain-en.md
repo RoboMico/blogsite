@@ -9,7 +9,7 @@ abstract: Try blog.robomico.cn!
 
 So I just spent 35RMB (~5$) to buy a domain for myself: `robomico.cn`. This blog site is now accessible via the subdomain [blog.robomico.cn](https://blog.robomico.cn)!
 
-Content of the blog is still hosted on GitHub Pages and the original domain [robomico.github.io](https://robomico.github.io) is still available.
+Content of the blog is still hosted on GitHub Pages ~~and the original domain [robomico.github.io](https://robomico.github.io) is still available.~~ (UPD: I was wrong. The content on the original url won't update anymore.)
 
 If I decide to tinker any random things in the future, I would also attach them to my new domain.
 
