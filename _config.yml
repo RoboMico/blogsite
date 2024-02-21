@@ -38,14 +38,7 @@ social:
   email: robomico@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://space.bilibili.com/40201225
-    - https://twitter.com/robomico # change to your twitter homepage
-    - https://github.com/RoboMico # change to your github homepage
-    - https://audio.com/memset-0x3f
-    - https://www.youtube.com/@robomico
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://blog.robomico.cn
 
 google_site_verification: # fill in to your verification string
 
