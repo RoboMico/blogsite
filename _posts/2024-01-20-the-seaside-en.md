@@ -46,7 +46,7 @@ The sea is no longer the symbol of beauty, purity and freedom, but the end of th
 
 A group of birds fly over their heads, their trail being perfectly tangent with the border of the wasteland. Birdsong echoes in the broad sky.
 
-"I remeber my grandpa telling me when I was a kid that a long, long time ago, when humans were still living on Earth, the sea was a very beautiful place, where people would enjoy sunbath, play vollyball, swim and surf. Also the products from the sea used to form an important industry of human." Andy says.
+"I remember my grandpa telling me when I was a kid that a long, long time ago, when humans were still living on Earth, the sea was a very beautiful place, where people would enjoy sunbath, play volleyball, swim and surf. Also the products from the sea used to form an important industry of human." Andy says.
 
 "Wouldn't the radiation in the sea be harmful to human?" Mico asks.
 
@@ -108,7 +108,7 @@ Andy puts on his backpack and walks back with Mico. The car follows the ruts in 
 > **Spoiler Alert!** Please make sure you have finished reading the main article.
 {: .prompt-danger }
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 > This story happens in its **independent (fictional) universe**.
 {: .prompt-info }
@@ -143,5 +143,5 @@ More detailed settings can be found in the [footnotes](#footnotes).
 
 ## Footnotes
 
-[^1]: A **photothermal power plant** is a clean energy power plant that collects the sun's thermal energy and uses molten salts as the heat-conducting medium. They are common to see on Mars.
+[^1]: A **photothermic power plant** is a clean energy power plant that collects the sun's thermal energy and uses molten salts as the heat-conducting medium. They are common to see on Mars.
 [^2]: Rainfall and sea breezes can carry trace amounts of radioactive substances from the ocean inland, and it takes at least 30 Earth days (720 hours) for the resulting radiation effects to be reduced to a safe level.

@@ -50,6 +50,11 @@ _点左边的按钮_
 sudo chmod o+rw /opt/visual-studio-code/resources -R
 ```
 
+<!-- prettier-ignore-start -->
+> **`sudo` 有风险，授权需谨慎。** 有已知问题表明，在修改文件权限后更新 VSCode 可能会损坏应用程序。如果你遇到了类似问题，请卸载上述的两个插件、彻底卸载 VSCode 再重新安装（设置和用户数据会被保留）。
+{: .prompt-danger }
+<!-- prettier-ignore-end -->
+
 然后点击通知泡泡上的“Install Now”或者在命令面板里运行 `>Animations: Install Animations`。待安装完成后别忘了把写入权限锁回去，避免安全隐患：
 
 ```bash

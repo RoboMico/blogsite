@@ -37,7 +37,7 @@ It is a little tricky to install at the first time, though. First you have to cl
 ![vscode-animations-change-install-method.png](https://storage.live.com/items/5FA5DFAE47A544F!121366:/vscode-animations-change-install-method.png?authkey=%21AC_KgUZjY4lFAV8)
 _Click the button on the right_
 
-Then click "Install Apc Customize UI++" in the next bubble. This will install another dependent extension that injects the animation code into the VSCode recourse file:
+Then click "Install Apc Customize UI++" in the next bubble. This will install another dependent extension that injects the animation code into the VSCode resources file:
 
 ![vscode-animations-install-apc.png](https://storage.live.com/items/5FA5DFAE47A544F!121368:/vscode-animations-install-apc.png?authkey=%21AC_KgUZjY4lFAV8)
 _Now click the button on the left_
@@ -51,6 +51,11 @@ Fixing is simple: turn on the read and write permission of VSCode resource folde
 ```bash
 sudo chmod o+rw /opt/visual-studio-code/resources -R
 ```
+
+<!-- prettier-ignore-start -->
+> **`sudo` at your own risk!** There are known issues that upgrading VSCode with modified file permissions may corrupt the installation. If you encounter this, please uninstall the two extensions, uninstall VSCode and install it back (your settings and user data will be kept).
+{: .prompt-danger }
+<!-- prettier-ignore-end -->
 
 Then click "Install Now" on the notification bubble or run `>Animations: Install Animations` in the command palette to finish the install. After that, don't forget to lock back the write permission to prevent hidden security danger in the future:
 

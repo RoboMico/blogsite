@@ -32,12 +32,12 @@ order: 4
 - 苦逼高中生（距离高考 <1000 天）
 - 现居中国江西
 - 中文母语人士，会一点点英语
-- 信息学竞赛选手，NOIP 2023 省级一等奖获得者 ~~（想拿牌子）~~
+- *曾役*信息学竞赛选手，NOIP 2023 省级一等奖获得者
 
 - An average student in senior high (<1000 days to go before graduation)
 - Lives in Jiangxi Province, China
 - Natively speaking Chinese, English is ok for simple conversations
-- Competitive Programming (CP) player, Provincial First Prize winner in NOIP 2023 ~~(i dream of medals)~~
+- _Used-to-be_ Competitive Programming (CP) player, Provincial First Prize winner in NOIP 2023
 
 ## Fanarts
 
