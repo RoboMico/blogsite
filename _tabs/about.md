@@ -43,11 +43,14 @@ order: 4
 
 ~~i can't believe it i would literally be drawn by others 不是吧我真的会收到这种东西~~
 
-![micomicomiiii.png](https://storage.live.com/items/5FA5DFAE47A544F!121338:/ultrio.png?authkey=%21AC_KgUZjY4lFAV8)
+![micomicomiiii.png](https://storage.live.com/items/5FA5DFAE47A544F!121338:/ultrio.png?authkey=%21AC_KgUZjY4lFAV8){: w="600" }
 _By [Ultrio](https://ultriog.github.io/ultrio-base-website/)_
 
-![the-unexpected-by-ultrio.png](https://storage.live.com/items/5FA5DFAE47A544F!121363:/the-unexpected-by-ultrio.png?authkey=%21AC_KgUZjY4lFAV8)
+![the-unexpected-by-ultrio.png](https://storage.live.com/items/5FA5DFAE47A544F!121363:/the-unexpected-by-ultrio.png?authkey=%21AC_KgUZjY4lFAV8){: w="600" }
 _Second drawing By [Ultrio](https://ultriog.github.io/ultrio-base-website/)，生动形象地描绘了我 A 不出题的状态 ~~(he hacked my webcam heeeeelp)~~_
+
+![slypixecat771.jpg](https://storage.live.com/items/5FA5DFAE47A544F!121375:/slypixecat771.jpg?authkey=%21AC_KgUZjY4lFAV8){: w="600" }
+_By SlyPixecat771 on Discord_
 
 ## 联系方式 / Contacts
 

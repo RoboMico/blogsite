@@ -68,9 +68,9 @@ He finds the video on the tablet and taps the play button. The scene in the vide
 
 "According to my calculations, if human transported the power plants into inland and store the nuclear waste water properly, the ocean radiation level would decrease significantly." Mico says.
 
-"Good idea, but it happened that many natural calamities stroke frequently, plus the intersteller travel became much cheaper, so a lot of people wanted to move on to Mars and they believed that the Earth was coming to its end. Coincidentally, it took a massive amount of energy to send people to Mars, so they just went ahead and built more and more power plants near the sea, until there was no one left on Earth..."
+"Good idea, but it happened that many natural calamities stroke frequently, plus the interstellar travel became much cheaper, so a lot of people wanted to move on to Mars and they believed that the Earth was coming to its end. Coincidentally, it took a massive amount of energy to send people to Mars, so they just went ahead and built more and more power plants near the sea, until there was no one left on Earth..."
 
-"If there were as many photothermal power plants[^1] on Earth as there are on Mars, the ocean wouldn't be what it is now, would it?"
+"If there were as many photothermic power plants[^1] on Earth as there are on Mars, the ocean wouldn't be what it is now, would it?"
 
 "Maybe won't." Andy sighs.
 
