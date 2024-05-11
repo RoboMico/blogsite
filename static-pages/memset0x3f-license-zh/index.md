@@ -1,7 +1,9 @@
 ---
 layout: static-page
 title: memset(0x3f) 音乐版权说明
-lang-en: memset0x3f-license-en
+lang: zh-CN
+source: static-pages/memset0x3f-license-zh/index.md
+alt-lang: memset0x3f-license-en
 ---
 
 1. 在不做另行说明的情况下，您可以在本站[下载中心](/downloads)找到的所有原创音乐作品都以[**知识共享许可协议-署名-4.0（CC BY 4.0）**](https://creativecommons.org/licenses/by/4.0/legalcode.zh-hans)进行授权。

@@ -1,7 +1,9 @@
 ---
 layout: static-page
 title: memset(0x3f) Music Copyright Notice
-lang-zh: memset0x3f-license-zh
+lang: en
+source: static-pages/memset0x3f-license-en/index.md
+alt-lang: memset0x3f-license-zh
 ---
 
 1. Unless otherwise specified, all original music available on the [Download Center](/downloads) of this site is licensed under the [**Creative Commons License - Attribution 4.0 (CC BY 4.0)**](https://creativecommons.org/licenses/by/4.0/legalcode.zh-hans).

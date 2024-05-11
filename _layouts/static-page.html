@@ -13,24 +13,30 @@ panel_includes:
 
     <div class="post-meta text-muted">
       <div class="d-flex justify-content-between">
-        <!-- read time -->
-        {% include read-time.html content=content prompt=true lang=lang %}
+        <div>
+          <!-- read time -->
+          {% include read-time.html content=content prompt=true lang=lang %}
+        </div>
       </div>
-      <!-- .d-flex -->
-      <!-- switch language to zh -->
-      {% if page.lang-zh %}
-      <div class="d-flex">
-        <a href="/static-pages/{{ page.lang-zh }}">切换到中文</a>
+      <!-- switch language-->
+      <div>
+        {% if page.lang == 'en' %}
+        <a href="/static-pages/{{ page.alt-lang }}">切换到中文</a>
+        <br />
+        <a
+          href="https://github.com/RoboMico/robomico.github.io/blob/main/{{ page.source }}?plain=1"
+          >View Source</a
+        >
+        {% endif %} {% if page.lang == 'zh-CN' %}
+        <a href="/static-pages/{{ page.alt-lang }}">Read in English</a>
+        <br />
+        <a
+          href="https://github.com/RoboMico/robomico.github.io/blob/main/{{ page.source }}?plain=1"
+          >查看源代码</a
+        >
+        {% endif %}
       </div>
-      {% endif %}
-      <!-- switch language to en -->
-      {% if page.lang-en %}
-      <div class="d-flex">
-        <a href="/static-pages/{{ page.lang-en }}">Read in English</a>
-      </div>
-      {% endif %}
     </div>
-    <!-- .post-meta -->
   </header>
 
   <div class="content">{{ content }}</div>

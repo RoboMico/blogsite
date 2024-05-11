@@ -1,10 +1,11 @@
 ---
 title: 如何把你的 VSCode 变得像德芙一样丝滑
-author: robomico
 date: 2024-02-21 21:21:30 +0800
 categories: [教程]
 tags: [中文, vscode]
-lang-en: smooth-vscode-en
+lang: zh-CN
+alt-lang: smooth-vscode-en
+source: _posts/2024-02-21-smooth-vscode-zh.md
 abstract: 让敲代码变成一种享受，从有一个丝滑的编辑器开始。
 ---
 

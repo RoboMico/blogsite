@@ -3,7 +3,9 @@ title: 看海
 date: 2024-01-20 12:04:37 +0800
 categories: [小说]
 tags: [中文, 科幻, 短篇故事]
-lang-en: the-seaside-en
+lang: zh-CN
+alt-lang: the-seaside-en
+source: _posts/2024-01-20-the-seaside-zh.md
 abstract: 大海早已不是美丽、纯洁、自由的象征，而是世界的尽头、陆生生命的禁区。
 ---
 

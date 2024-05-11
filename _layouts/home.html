@@ -24,28 +24,6 @@ default_num | minus: 1 %} {% if default_num > 0 %} {% for i in
 (default_beg..default_end) %} {% assign posts = posts | push: default[i] %} {%
 endfor %} {% endif %}
 
-<!--
-<input
-  type="checkbox"
-  class="lang-checkbox"
-  id="show-lang-zh"
-  title="显示中文文章"
-  checked="true"
-  style="margin-left: 1rem"
-/>
-<label>显示中文文章</label>
-<br />
-<input
-  type="checkbox"
-  class="lang-checkbox"
-  id="show-lang-en"
-  title="Show English posts"
-  checked="true"
-  style="margin-left: 1rem"
-/>
-<label>Show English posts</label>
- -->
-
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in posts %}
   <article class="card-wrapper card">

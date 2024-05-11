@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "jekyll-theme-chirpy", "~> 6.5", ">= 6.5.5"
+gem "jekyll-theme-chirpy", "~> 7.0", ">= 7.0.0"
 
 group :test do
   gem "html-proofer", "~> 4.4"
@@ -22,4 +22,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-gem "json", ">=2.7.1"
+gem "json", ">=2.7.2"

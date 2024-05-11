@@ -3,7 +3,9 @@ title: New Domain for the site now accessible!
 date: 2024-02-08 17:20:26 +0800
 categories: [Announcements]
 tags: [en]
-lang-zh: new-domain-zh
+lang: en
+alt-lang: new-domain-zh
+source: _posts/2024-02-08-new-domain-en.md
 abstract: Try blog.robomico.cn!
 ---
 

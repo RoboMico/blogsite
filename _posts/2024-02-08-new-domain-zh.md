@@ -3,7 +3,9 @@ title: 本站已启用新域名！
 date: 2024-02-08 17:20:26 +0800
 categories: [通知]
 tags: [中文]
-lang-en: new-domain-en
+lang: zh-CN
+alt-lang: new-domain-en
+source: _posts/2024-02-08-new-domain-zh.md
 abstract: 就是这个：blog.robomico.cn
 ---
 

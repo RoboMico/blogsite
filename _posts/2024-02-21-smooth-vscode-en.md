@@ -1,10 +1,11 @@
 ---
 title: How to make your VSCode as smooth as butter
-author: robomico
 date: 2024-02-21 21:21:30 +0800
 categories: [Tutorials]
 tags: [en, vscode]
-lang-zh: smooth-vscode-zh
+lang: en
+alt-lang: smooth-vscode-zh
+source: _posts/2024-02-21-smooth-vscode-en.md
 abstract: Make your coding time more enjoyable by beautifying your editor.
 ---
 
