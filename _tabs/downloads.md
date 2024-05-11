@@ -40,13 +40,15 @@ _pink-sweater.png_
 
 ## memset(0x3f)
 
-- XCF 文件需要使用 [GIMP](https://www.gimp.org/) 打开；
-- SVG 文件推荐使用 [Inkscape](https://inkscape.org/) 打开；
-- 成为[爱发电](https://afdian.net/a/RoboMico)赞助者可以解锁无损音质（WAV 格式）下载。
+- **下载本节的任意文件，即视为您已经阅读并同意 [memset(0x3f) 音乐版权说明](/static-pages/memset0x3f-license-zh/)。**
+- XCF 文件需要使用 [GIMP](https://www.gimp.org/) 打开。
+- SVG 文件推荐使用 [Inkscape](https://inkscape.org/) 打开。
+- 如果您需要这些曲目的无损音质（WAV 格式）音源，请给我发送邮件（地址可在左侧栏底部找到）并阐明用途，我会免费提供下载。
 
+- **By downloading any of the files in this section, you are deemed to have read and agreed to [memset(0x3f) Music Copyright Notice](/static-pages/memset0x3f-license-en/).**
 - You need [GIMP](https://www.gimp.org/) to open XCF files.
 - It is recommended to open SVG files via [Inkscape](https://inkscape.org/).
-- Become my supporter on [Afdian](https://afdian.net/a/RoboMico) to unlock downloads of lossless WAV format tracks!
+- If you need lossless audio (WAV format) for any of these songs, please send me an e-mail (address can be found at the bottom of the left sidebar) with a description of the purpose and I'll send it to you for free.
 
 ### Logo
 
@@ -80,8 +82,10 @@ Darude - Sandstorm (0x3f Bootleg) <br> ![sandstorm-remix.png](https://storage.li
 <!-- prettier-ignore-start -->
 > 这些曲目的曲绘版权归原画师所有，使用前请先征得他们的同意。
 > 
-> The artworks for these tracks are copyrighted to the original artists. Please ask their permission before using the artwork.
+> The artworks of these songs are copyrighted to the original artists. Please ask their permission before using the artwork.
 {: .prompt-info }
 <!-- prettier-ignore-end -->
 
-memset(0x3f) - First Awakening (for ArtifiSouls) <br> Artwork by [Soap](https://twitter.com/artifisoap) <br> ![first-awakening.png](https://storage.live.com/items/5FA5DFAE47A544F!121327:/first-awakening.png?authkey=%21AC_KgUZjY4lFAV8){: w="120" h="120"} | [MP3](<https://storage.live.com/items/5FA5DFAE47A544F!121328:/memset(0x3f)%20-%20First%20Awakening.mp3?authkey=%21AC_KgUZjY4lFAV8>) | [PNG](https://storage.live.com/items/5FA5DFAE47A544F!121327:/first-awakening.png?authkey=%21AC_KgUZjY4lFAV8) | [SVG](https://storage.live.com/items/5FA5DFAE47A544F!121326:/first-awakening.svg?authkey=%21AC_KgUZjY4lFAV8)
+memset(0x3f) - First Awakening (for ArtifiSouls) <br> Artwork by [Soap](https://artifisoap.carrd.co/) <br> ![first-awakening.png](https://storage.live.com/items/5FA5DFAE47A544F!121327:/first-awakening.png?authkey=%21AC_KgUZjY4lFAV8){: w="120" h="120"} | [MP3](<https://storage.live.com/items/5FA5DFAE47A544F!121328:/memset(0x3f)%20-%20First%20Awakening.mp3?authkey=%21AC_KgUZjY4lFAV8>) | [PNG](https://storage.live.com/items/5FA5DFAE47A544F!121327:/first-awakening.png?authkey=%21AC_KgUZjY4lFAV8) | [SVG](https://storage.live.com/items/5FA5DFAE47A544F!121326:/first-awakening.svg?authkey=%21AC_KgUZjY4lFAV8)
+
+memset(0x3f) - Melee Droid Tier 2 (for ArtifiSouls) <br> Artwork by [Soap](https://artifisoap.carrd.co/) <br> ![md-t2.png](https://storage.live.com/items/5FA5DFAE47A544F!121380:/cover.png?authkey=%21AC_KgUZjY4lFAV8){: w="120" h="120"} | [MP3](<https://storage.live.com/items/5FA5DFAE47A544F!121382:/memset(0x3f)%20-%20Melee%20Droid%20Tier%202.mp3?authkey=%21AC_KgUZjY4lFAV8>) | [PNG](https://storage.live.com/items/5FA5DFAE47A544F!121380:/cover.png?authkey=%21AC_KgUZjY4lFAV8) | [XCF](https://storage.live.com/items/5FA5DFAE47A544F!121379:/cover.xcf?authkey=%21AC_KgUZjY4lFAV8) | [SVG](https://storage.live.com/items/5FA5DFAE47A544F!121378:/cover-elem.svg?authkey=%21AC_KgUZjY4lFAV8)

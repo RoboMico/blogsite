@@ -1,0 +1,47 @@
+---
+layout: default
+refactor: true
+panel_includes:
+  - toc
+---
+
+{% include lang.html %}
+
+<article class="px-1">
+  <header>
+    <h1 data-toc-skip>{{ page.title }}</h1>
+
+    <div class="post-meta text-muted">
+      <div class="d-flex justify-content-between">
+        <!-- read time -->
+        {% include read-time.html content=content prompt=true lang=lang %}
+      </div>
+      <!-- .d-flex -->
+      <!-- switch language to zh -->
+      {% if page.lang-zh %}
+      <div class="d-flex">
+        <a href="/static-pages/{{ page.lang-zh }}">切换到中文</a>
+      </div>
+      {% endif %}
+      <!-- switch language to en -->
+      {% if page.lang-en %}
+      <div class="d-flex">
+        <a href="/static-pages/{{ page.lang-en }}">Read in English</a>
+      </div>
+      {% endif %}
+    </div>
+    <!-- .post-meta -->
+  </header>
+
+  <div class="content">{{ content }}</div>
+
+  <div class="post-tail-wrapper text-muted">
+    <div
+      class="post-tail-bottom d-flex justify-content-between align-items-center mt-5 pb-2"
+    >
+      {% include post-sharing.html lang=lang %}
+    </div>
+    <!-- .post-tail-bottom -->
+  </div>
+  <!-- div.post-tail-wrapper -->
+</article>
