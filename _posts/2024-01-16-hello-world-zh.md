@@ -6,7 +6,7 @@ tags: [中文]
 lang: zh-CN
 alt-lang: hello-world-en
 source: _posts/2024-01-16-hello-world-zh.md
-abstract: 欢迎来到我的新博客网站。
+description: 欢迎来到我的新博客网站。
 ---
 
 欢迎来到我的新博客网站。这里会发布的内容包括：

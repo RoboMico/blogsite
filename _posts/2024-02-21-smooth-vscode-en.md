@@ -6,7 +6,7 @@ tags: [en, vscode]
 lang: en
 alt-lang: smooth-vscode-zh
 source: _posts/2024-02-21-smooth-vscode-en.md
-abstract: Make your coding time more enjoyable by beautifying your editor.
+description: Make your coding time more enjoyable by beautifying your editor.
 ---
 
 ~~the first geek blog post yippee~~

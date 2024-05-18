@@ -6,7 +6,7 @@ tags: [中文]
 lang: zh-CN
 alt-lang: new-domain-en
 source: _posts/2024-02-08-new-domain-zh.md
-abstract: 就是这个：blog.robomico.cn
+description: 就是这个：blog.robomico.cn
 ---
 
 所以我刚花了三十五大洋买了个自己的域名：`robomico.cn`，现在可以通过二级域名 [blog.robomico.cn](https://blog.robomico.cn) 访问本博客网站啦！

@@ -6,7 +6,7 @@ tags: [en]
 lang: en
 alt-lang: hello-world-zh
 source: _posts/2024-01-16-hello-world-en.md
-abstract: So here is my new blog.
+description: So here is my new blog.
 ---
 
 So here is my new blog. Things that I will post here includes:

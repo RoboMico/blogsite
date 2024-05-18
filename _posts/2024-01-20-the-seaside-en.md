@@ -6,7 +6,7 @@ tags: [en, sci-fi, short-story]
 lang: en
 alt-lang: the-seaside-zh
 source: _posts/2024-01-20-the-seaside-en.md
-abstract: The sea is no longer the symbol of beauty, purity and freedom, but the end of the world and the forbidden zone of terrestrial life.
+description: The sea is no longer the symbol of beauty, purity and freedom, but the end of the world and the forbidden zone of terrestrial life.
 ---
 
 > Originally written on 2023/9/3, Slightly modified & Translated on 2024/1/19

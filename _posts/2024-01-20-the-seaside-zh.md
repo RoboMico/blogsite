@@ -6,7 +6,7 @@ tags: [中文, 科幻, 短篇故事]
 lang: zh-CN
 alt-lang: the-seaside-en
 source: _posts/2024-01-20-the-seaside-zh.md
-abstract: 大海早已不是美丽、纯洁、自由的象征，而是世界的尽头、陆生生命的禁区。
+description: 大海早已不是美丽、纯洁、自由的象征，而是世界的尽头、陆生生命的禁区。
 ---
 
 > 原稿写于 2023/9/3，修改于 2024/1/19

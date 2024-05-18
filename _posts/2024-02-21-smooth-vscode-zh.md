@@ -6,7 +6,7 @@ tags: [中文, vscode]
 lang: zh-CN
 alt-lang: smooth-vscode-en
 source: _posts/2024-02-21-smooth-vscode-zh.md
-abstract: 让敲代码变成一种享受，从有一个丝滑的编辑器开始。
+description: 让敲代码变成一种享受，从有一个丝滑的编辑器开始。
 ---
 
 ~~好耶是第一篇技术教程~~

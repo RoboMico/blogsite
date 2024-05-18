@@ -6,7 +6,7 @@ tags: [en]
 lang: en
 alt-lang: new-domain-zh
 source: _posts/2024-02-08-new-domain-en.md
-abstract: Try blog.robomico.cn!
+description: Try blog.robomico.cn!
 ---
 
 So I just spent 35RMB (~5$) to buy a domain for myself: `robomico.cn`. This blog site is now accessible via the subdomain [blog.robomico.cn](https://blog.robomico.cn)!
