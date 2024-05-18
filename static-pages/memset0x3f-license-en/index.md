@@ -12,12 +12,12 @@ alt-lang: memset0x3f-license-zh
    - Giving credit to the original author means **you must explicitly attribute the music work to the pen name of the author, memset(0x3f)**, whenever you use or reproduce the music work. If possible, it is recommended to also provide the following information (though not mandatory):
      - Link to this copyright notice page;
      - Link to the CC BY 4.0 license text;
-     - Links to the music work on streaming platforms (e.g., Bilibili, YouTube, audio.com).
-   - **Free to use for any purpose includes, but is not limited to**:
+     - Links to the music work on streaming platforms (e.g., Bilibili, YouTube, Netease Cloud Music).
+   - "Free to use for any purpose" includes, but is not limited to:
      - Reproducing and publishing full versions or excerpts of music works on other streaming platforms;
      - Using music works for creating other media formats, such as videos/live streams;
      - Adapting/remixing music works;
-     - Including music into free or commercial games;
+     - Including music in free or commercial games;
      - Including music in publicly released albums.
    - **Any economic benefits derived from using these music works belong solely to you**, with no affiliation to the original author. Similarly, **you bear full responsibility for any controversies or legal violations arising from the use of these music works**, with no association to the author.
 3. The above terms also apply to cover artworks released alongside these music works if their full copyright is held by memset(0x3f) personally.
